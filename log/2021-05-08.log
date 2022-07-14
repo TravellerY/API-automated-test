@@ -1,0 +1,16 @@
+2021-05-08 15:23:55,634 - root - INFO - Start print log
+2021-05-08 15:23:55,654 - root - DEBUG - Do something
+2021-05-08 15:23:55,654 - root - WARNING - Something maybe fail.
+2021-05-08 15:23:55,654 - root - INFO - Finish
+2021-05-08 15:24:08,103 - root - INFO - Start print log
+2021-05-08 15:24:08,103 - root - DEBUG - Do something
+2021-05-08 15:24:08,103 - root - WARNING - Something maybe fail.
+2021-05-08 15:24:08,103 - root - INFO - Finish
+2021-05-08 15:24:11,932 - root - INFO - Start print log
+2021-05-08 15:24:11,932 - root - DEBUG - Do something
+2021-05-08 15:24:11,932 - root - WARNING - Something maybe fail.
+2021-05-08 15:24:11,932 - root - INFO - Finish
+2021-05-08 15:25:10,044 - root - INFO - Start print log
+2021-05-08 15:25:10,044 - root - DEBUG - Do something
+2021-05-08 15:25:10,044 - root - WARNING - Something maybe fail.
+2021-05-08 15:25:10,044 - root - INFO - Finish
